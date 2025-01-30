@@ -13,7 +13,8 @@ Real-time Projects, Learning Roadmap, Architecture about Agentic RAG
 [![GitHub watchers](https://img.shields.io/github/watchers/ashutosh3060/Agentic-RAG.svg?style=social&label=Watch)](https://GitHub.com/ashutosh3060/Agentic-RAG/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/ashutosh3060/Agentic-RAG.svg?style=social&label=Fork)](https://GitHub.com/ashutosh3060/Agentic-RAG/network/)
 [![GitHub stars](https://img.shields.io/github/stars/ashutosh3060/Agentic-RAG.svg?style=social&label=Star)](https://GitHub.com/ashutosh3060/Agentic-RAG/stargazers/)
-ashutosh3060
+
+I created this repo to learn, implement and share learnings about Agentic RAG. Time to time, I will try to update the content as this is a fast-moving space with developments almost every day.
 
 
 ### Table of Contents
