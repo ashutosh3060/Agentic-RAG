@@ -11,3 +11,7 @@ Here’s how it works:
 RAG is useful because it can help models provide more specific and fact-based answers, especially for tasks where the model might not have all the knowledge internally (e.g., specific data points, up-to-date events, etc.).
 
 It’s often used in more advanced AI applications, like conversational agents, question-answering systems, and any context where accurate, contextually aware responses are needed.
+
+Resources:
+https://www.datacamp.com/blog/rag-interview-questions
+https://skphd.medium.com/interview-questions-and-answers-on-retrieval-augmented-generation-rag-f5fb7b5b8228
