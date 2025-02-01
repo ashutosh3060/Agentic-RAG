@@ -12,6 +12,12 @@ RAG is useful because it can help models provide more specific and fact-based an
 
 It’s often used in more advanced AI applications, like conversational agents, question-answering systems, and any context where accurate, contextually aware responses are needed.
 
+
+### 2. Build a RAG APP with Langchain
+Part 1 : https://python.langchain.com/v0.2/docs/tutorials/rag/
+Part 2: https://python.langchain.com/docs/tutorials/qa_chat_history/
+
+
 Resources:
 https://www.datacamp.com/blog/rag-interview-questions
 https://skphd.medium.com/interview-questions-and-answers-on-retrieval-augmented-generation-rag-f5fb7b5b8228
