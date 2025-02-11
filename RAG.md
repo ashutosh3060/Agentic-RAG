@@ -17,6 +17,11 @@ It’s often used in more advanced AI applications, like conversational agents, 
 Part 1 : https://python.langchain.com/v0.2/docs/tutorials/rag/
 Part 2: https://python.langchain.com/docs/tutorials/qa_chat_history/
 
+### 3. Topics in Building RAG
+1. Indexing
+2. Chunking
+3. Re-ranking
+
 
 Resources:
 https://www.datacamp.com/blog/rag-interview-questions
