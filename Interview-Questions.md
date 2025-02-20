@@ -49,17 +49,17 @@ What is the output of your RAG system?
 💬 Have you had experience being part of product delivery teams that are shipping products outside of the company?
 
 💬 How big were the teams you worked with, and what areas did you personally gravitate towards?
-46 mins 40 secs
+
 💬 How many junior developers were you mentoring, and can you talk about your experience there?
-49 mins 12 secs
+
 💬 Can you talk about how you set up fine-tuning of LLMs and the benefits you observed?
-51 mins 0 sec
+
 💬 What benefits did you see within your RAG setup, and how did you measure or verify it?
-55 mins 12 secs
+
 💬 If working with a larger system and a pressing need to measure performance, what techniques might you use?
-58 mins 42 secs
+
 💬 What are some good ways to automatically measure relevance beyond hand evaluation?
-1 hour 0 min
+
 💬 Can you talk more about the POC for multi-agent creation, including the frameworks used and the depth of exploration in the AI space?
-1 hour 2 mins
+
 💬 How did you decide on using Crew for your project? Was it based on your research or a company decision?
