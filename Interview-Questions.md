@@ -39,15 +39,15 @@ What is the output of your RAG system?
 💬 What makes your solution RAG-based rather than traditional analytics?
 
 💬 What kind of summary content are you using?
-38 mins 30 secs
+
 💬 How do you detect when your system might be hallucinating?
-40 mins 30 secs
+
 💬 How are you measuring and tracking performance?
-41 mins 40 secs
+
 💬 What analysis led you to choose blue over other options?
-42 mins 42 secs
+
 💬 Have you had experience being part of product delivery teams that are shipping products outside of the company?
-45 mins 40 secs
+
 💬 How big were the teams you worked with, and what areas did you personally gravitate towards?
 46 mins 40 secs
 💬 How many junior developers were you mentoring, and can you talk about your experience there?
