@@ -31,7 +31,7 @@ Check how not to use LangGraph and stiil achieve it by using LangChain !
 
 What is invocation mode ?   
 * The specific method used to trigger the retrieval process and feed relevant information to the LLM when generating a response to a user query.
-* Essentially, it determines how the LLM accesses and utilizes external data sources to enrich its response based on the current context of the query.
+* Essentially, it determines how the LLM accesses and utilizes external data sources to enrich its response based on the current context of the query.   
 Different types of invocation mode:
 1. Batched calls: Sending multiple queries to the language model at once to be processed together.
 2. Async calls: allow sending multiple requests without waiting for each response individually
