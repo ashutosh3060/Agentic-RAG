@@ -29,15 +29,6 @@ from langchain_openai import OpenAI
 Orchestration platform for retrieval & generation: **LangGraph** 
 Check how not to use LangGraph and stiil achieve it by using LangChain !
 
-What is invocation mode ?   
-* The specific method used to trigger the retrieval process and feed relevant information to the LLM when generating a response to a user query.
-* Essentially, it determines how the LLM accesses and utilizes external data sources to enrich its response based on the current context of the query.   
-Different types of invocation mode:
-1. Batched calls: Sending multiple queries to the language model at once to be processed together.
-2. Async calls: allow sending multiple requests without waiting for each response individually
-3. Streaming: receiving the model's output in chunks as it generates it, allowing for near-real-time feedback.
-   Essentially, batching improves efficiency by grouping requests, async allows parallel processing, and streaming provides continuous output as the model generates it.
-
 To use LangGraph, we need to define three things:
   The state of our application
   The nodes of our application (i.e., application steps);
