@@ -33,8 +33,8 @@ To use LangGraph, we need to define three things:
   The state of our application   
   The nodes of our application (i.e., application steps);   
   The "control flow" of our application (e.g., the ordering of the steps)   
-
-
+    
+Explore Llama Index, Haystack for RAG   
 New Libraries to check:   
 tiktoken: Tiktoken is a free, open-source Python library that tokenizes text. It was developed by OpenAI to work with their large language model.   
 
