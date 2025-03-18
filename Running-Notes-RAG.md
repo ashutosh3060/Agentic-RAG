@@ -1,7 +1,7 @@
 # This file contains running note for RAG Learning
 
 
-Notebook to follow: [1]_rag_setup_overview.ipynb
+**Notebook to follow: [1]_rag_setup_overview.ipynb**   
 https://github.com/ashutosh3060/bRAG-langchain/blob/main/notebooks/%5B1%5D_rag_setup_overview.ipynb  
 
 RAG Quickstart:   
@@ -20,7 +20,7 @@ Store: from langchain_community.vectorstores import PineCone
 Retrieval: 
 -- # Index   
 from langchain_community.vectorstores import PineCone   
-from langchain_openai import OpenAIEmbeddings   
+from langchain_openai import OpenAIEmbeddings       
 retriever = vectorstore.as_retriever(search_kwargs:{"k":1})   
 Generation:   
 from langchain_openai import OpenAI   
@@ -39,3 +39,4 @@ New Libraries to check:
 tiktoken: Tiktoken is a free, open-source Python library that tokenizes text. It was developed by OpenAI to work with their large language model.   
 
  
+**Notebook to follow: [2]_rag_with_multi_query.ipynb**    
