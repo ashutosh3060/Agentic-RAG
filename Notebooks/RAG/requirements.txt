@@ -5,6 +5,7 @@ langchain
 langchain-community
 langchain-core
 langchain-openai
+langchain-pinecone
 pinecone
 beautifulsoup4
 tiktoken
