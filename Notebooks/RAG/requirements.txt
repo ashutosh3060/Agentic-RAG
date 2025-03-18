@@ -5,7 +5,7 @@ langchain
 langchain-community
 langchain-core
 langchain-openai
-pinecone-client
+pinecone
 beautifulsoup4
 tiktoken
 numpy
