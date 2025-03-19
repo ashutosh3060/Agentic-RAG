@@ -40,3 +40,6 @@ tiktoken: Tiktoken is a free, open-source Python library that tokenizes text. It
 
  
 **Notebook to follow: [2]_rag_with_multi_query.ipynb**    
+
+Multi Query Architecture:
+Langchain Library: **MultiQueryRetriever**
