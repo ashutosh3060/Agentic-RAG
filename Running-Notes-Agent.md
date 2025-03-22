@@ -1,3 +1,4 @@
 # Agentic AI
 
-# AutoGen
+## AutoGen
+OpenSource framework that leverages multiple Agents to enable complex workflows
