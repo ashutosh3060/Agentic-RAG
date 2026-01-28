@@ -1,5 +1,11 @@
 # Agentic AI
 
+#### Types of Agentic Framework
+  1. ReAct
+  2. Plan-Execute
+  3. Multi Agents
+  4. Graph Workflows
+
 ## AutoGen
 OpenSource framework that leverages multiple Agents to enable complex workflows
 
